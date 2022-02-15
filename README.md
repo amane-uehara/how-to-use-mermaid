@@ -1,7 +1,8 @@
 # How to use mermaid
 
-* <https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/>
-* <https://mermaid-js.github.io/mermaid/#/>
+* [github announcement](https://github.blog/2022-02-14-include-diagrams-markdown-files-mermaid/)
+* [mermaid syntax](https://mermaid-js.github.io/mermaid)
+* [live editor](https://mermaid.live/edit)
 
 ### Flowchart
 
